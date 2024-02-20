@@ -66,3 +66,37 @@ button {
 .logo span {
   color: #2e2f42;
 }
+
+.link-home {
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  transition: color 0.3s ease;
+}
+
+.link-home:hover {
+  color: #404bbf;
+}
+
+.link-home:focus {
+  color: #404bbf;
+}
+.address-info {
+  font-style: normal;
+}
+.link-first {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+  transition: color 0.3s ease;
+}
+
+.link-first:hover {
+  color: #404bbf;
+}
+
+.link-first:focus {
+  color: #404bbf;
+}
