@@ -1,0 +1,55 @@
+body {
+  font-family: "roboto", sans-serif;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 2%;
+  background-color: #ffffff;
+  color: #2e2f42;
+}
+h1 {
+  font-family: "roboto", sans-serif;
+  font-weight: bold;
+  font-size: 56px;
+  line-height: 60px;
+  letter-spacing: 2%;
+}
+h2 {
+  font-family: "roboto", sans-serif;
+  font-weight: bold;
+  font-size: 36px;
+  letter-spacing: 2%;
+}
+h3 {
+  font-family: "roboto", sans-serif;
+  font-weight: medium;
+  font-size: 20px;
+  letter-spacing: 2%;
+}
+.hero-image {
+  background-color: #2e2f42;
+}
+.but {
+  font-family: "roboto", sans-serif;
+  font-weight: medium;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 4%;
+  color: #ffffff;
+  background-color: #4d5ae5;
+}
+a {
+  font-family: "roboto", sans-serif;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 4%;
+  text-decoration: underline;
+}
+button {
+  font-family: "roboto";
+  font-weight: medium;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 4%;
+}
